@@ -1,0 +1,50 @@
+.parallax, .parallax1, .parallax2{
+    background-image: url("images/16.jpg");
+    min-height: 640px;
+	width: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax1{
+    background-image: url("images/25.jpg");
+}
+
+.parallax2{
+    background-image: url("images/27.jpg");
+}
+
+.caption {
+    position: absolute;
+    left: 0;
+    top: 28%;
+    width: 100%;
+    text-align: center;
+    color: #000;
+}
+
+.benefits, .about_yoga{
+    min-height: 630px;
+}
+
+.header-title, .about_yoga, .benefits, .footer{
+    background-color: #ffa630;
+}
+
+/* .container-fluid{
+	padding: 0px!important;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
