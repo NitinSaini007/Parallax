@@ -1,3 +1,10 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+}
+
+
+
 .parallax, .parallax1, .parallax2{
     background-image: url("images/16.jpg");
     min-height: 640px;
@@ -27,6 +34,7 @@
 
 .benefits, .about_yoga{
     min-height: 630px;
+    width: 100%;
 }
 
 .header-title, .about_yoga, .benefits, .footer{
